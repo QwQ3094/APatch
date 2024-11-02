@@ -2,7 +2,7 @@
 agp = "8.7.1"
 kotlin = "2.0.21"
 ksp = "2.0.21-1.0.26"
-compose-bom = "2024.10.00"
+compose-bom = "2024.10.01"
 lifecycle = "2.8.6"
 compose-destination = "2.1.0-beta14"
 libsu = "6.0.0"
@@ -24,7 +24,7 @@ androidx-activity-compose = { group = "androidx.activity", name = "activity-comp
 androidx-core-splashscreen = { group = "androidx.core", name = "core-splashscreen", version = "1.0.1" }
 androidx-webkit = { group = "androidx.webkit", name = "webkit", version = "1.12.1" }
 
-androidx-compose-bom = { group = "androidx.compose", name = "compose-bom", version.ref = "compose-bom" }
+androidx-compose-bom = { group = "androidx.compose", name = "compose-bom-alpha", version.ref = "compose-bom" }
 androidx-compose-material-icons-extended = { group = "androidx.compose.material", name = "material-icons-extended" }
 androidx-compose-material = { group = "androidx.compose.material", name = "material" }
 androidx-compose-material3 = { group = "androidx.compose.material3", name = "material3", version = "1.4.0-alpha02" } # For material3 PullToRefresh, work around https://issuetracker.google.com/issues/359949836, remove the `version` when 1.4.0 released
