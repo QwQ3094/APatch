@@ -43,7 +43,7 @@ Kernel configs:
 ## Security Alert
 
 The **SuperKey** has higher privileges than root access.  
-Weak or compromised keys can lead to unauthorized control of your device.  
+Weak or compromised keys can lead to unauthorized control of your device. 
 It is critical to use robust keys and safeguard them from exposure to maintain the security of your device.
 
 ## Translation
